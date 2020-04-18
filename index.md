@@ -1,3 +1,4 @@
-# Welcome to my blog
+# The Blog
 
-I'm glad you are here. I plan to talk about nothing.
+
+I'm not glad you are here. I plan to talk about nothing.
